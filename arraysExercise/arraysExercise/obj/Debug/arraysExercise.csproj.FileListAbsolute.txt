@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\KC_cSharp\arraysExercise\arraysExercise\bin\Debug\arraysExercise.exe.config
+C:\Users\student\Desktop\KC_cSharp\arraysExercise\arraysExercise\bin\Debug\arraysExercise.exe
+C:\Users\student\Desktop\KC_cSharp\arraysExercise\arraysExercise\bin\Debug\arraysExercise.pdb
+C:\Users\student\Desktop\KC_cSharp\arraysExercise\arraysExercise\obj\Debug\arraysExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\KC_cSharp\arraysExercise\arraysExercise\obj\Debug\arraysExercise.exe
+C:\Users\student\Desktop\KC_cSharp\arraysExercise\arraysExercise\obj\Debug\arraysExercise.pdb
