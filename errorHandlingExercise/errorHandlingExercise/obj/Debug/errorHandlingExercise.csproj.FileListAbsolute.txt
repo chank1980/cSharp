@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\KC_cSharp\errorHandlingExercise\errorHandlingExercise\bin\Debug\errorHandlingExercise.exe.config
+C:\Users\student\Desktop\KC_cSharp\errorHandlingExercise\errorHandlingExercise\bin\Debug\errorHandlingExercise.exe
+C:\Users\student\Desktop\KC_cSharp\errorHandlingExercise\errorHandlingExercise\bin\Debug\errorHandlingExercise.pdb
+C:\Users\student\Desktop\KC_cSharp\errorHandlingExercise\errorHandlingExercise\obj\Debug\errorHandlingExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\KC_cSharp\errorHandlingExercise\errorHandlingExercise\obj\Debug\errorHandlingExercise.exe
+C:\Users\student\Desktop\KC_cSharp\errorHandlingExercise\errorHandlingExercise\obj\Debug\errorHandlingExercise.pdb
