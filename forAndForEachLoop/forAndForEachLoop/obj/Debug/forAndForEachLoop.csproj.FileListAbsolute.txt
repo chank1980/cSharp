@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\KC_cSharp\forAndForEachLoop\forAndForEachLoop\bin\Debug\forAndForEachLoop.exe.config
+C:\Users\student\Desktop\KC_cSharp\forAndForEachLoop\forAndForEachLoop\bin\Debug\forAndForEachLoop.exe
+C:\Users\student\Desktop\KC_cSharp\forAndForEachLoop\forAndForEachLoop\bin\Debug\forAndForEachLoop.pdb
+C:\Users\student\Desktop\KC_cSharp\forAndForEachLoop\forAndForEachLoop\obj\Debug\forAndForEachLoop.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\KC_cSharp\forAndForEachLoop\forAndForEachLoop\obj\Debug\forAndForEachLoop.exe
+C:\Users\student\Desktop\KC_cSharp\forAndForEachLoop\forAndForEachLoop\obj\Debug\forAndForEachLoop.pdb
